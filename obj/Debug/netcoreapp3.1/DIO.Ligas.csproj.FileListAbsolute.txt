@@ -1,0 +1,14 @@
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Ligas.exe
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Ligas.deps.json
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Ligas.runtimeconfig.json
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Ligas.runtimeconfig.dev.json
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Ligas.dll
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\bin\Debug\netcoreapp3.1\DIO.Ligas.pdb
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Ligas.csproj.AssemblyReference.cache
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Ligas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Ligas.AssemblyInfoInputs.cache
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Ligas.AssemblyInfo.cs
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Ligas.csproj.CoreCompileInputs.cache
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Ligas.dll
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Ligas.pdb
+C:\Users\Talysson\Documents\dio-dotnet-poo-lab-2-master\obj\Debug\netcoreapp3.1\DIO.Ligas.genruntimeconfig.cache

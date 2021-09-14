@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6dswnm93tq9/72WP82UDIBB5OSuCRLRR+GZBwCGTYr0E+y/8a0+CCllkLEodibLJFQdJh+qLO4uQV3DhBTs3nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Talysson\\Documents\\dio-dotnet-poo-lab-2-master\\DIO.Ligas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Talysson\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Talysson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Talysson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Talysson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
